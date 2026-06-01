@@ -1,0 +1,10 @@
+# Local datasets and secrets
+*.csv
+.env
+.env.*
+!.env.example
+
+# Notebook and Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
